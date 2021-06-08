@@ -1,14 +1,15 @@
 # Python-assignments-1
 
 
-1.	Given a list, url = [www.annauniv.edu, www.google.com, www.ndtv.com, www.website.org, www.bis.org.in, www.rbi.org.in]; Sort the list based on the top level domain (edu, com, org, in) using custom sorting
-2.	Given a list of strings, return the count of the number of strings where the string length is 2 or more and the first and last chars of the string are the same.  
+      1.	Given a list, url = [www.annauniv.edu, www.google.com, www.ndtv.com, www.website.org, www.bis.org.in, www.rbi.org.in]; Sort the list based on the top level domain (edu, com, org, in) using custom sorting
+
+      2.	Given a list of strings, return the count of the number of strings where the string length is 2 or more and the first and last chars of the string are the same.  
 
 i.	['axa', 'xyz', 'gg', 'x', 'yyy']
 ii.	['x', 'cd', 'cnc', 'kk']
 iii.	['bab', 'ce', 'cba', 'syanora']
 
-3.	Given a list of strings, return a list with the strings in sorted order, except group all the strings that begin with 'x' first.  e.g. ['mix', 'xyz', 'apple', 'xanadu', 'aardvark'] yields
+      3.	Given a list of strings, return a list with the strings in sorted order, except group all the strings that begin with 'x' first.  e.g. ['mix', 'xyz', 'apple', 'xanadu', 'aardvark'] yields
 ['xanadu', 'xyz', 'aardvark', 'apple', 'mix']. 
 Hint: this can be done by making 2 lists and sorting each of them before combining them.
 i.	['bbb', 'ccc', 'axx', 'xzz', 'xaa']
